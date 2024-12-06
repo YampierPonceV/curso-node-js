@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "title": "Shadows of Eternity",
+    "genre": "Fantasy",
+    "release_year": 2023,
+    "duration_minutes": 128,
+    "director": "Emily Carter",
+    "cast": ["Lucas Gray", "Sophia Bennett", "Elijah Moore"],
+    "synopsis": "A young warrior discovers an ancient prophecy and must unite warring kingdoms to stop a looming darkness.",
+    "rating": 8.2,
+    "language": "English",
+    "box_office_millions": 150
+  },
+  {
+    "id": 2,
+    "title": "Cyber Nexus",
+    "genre": "Sci-Fi",
+    "release_year": 2022,
+    "duration_minutes": 140,
+    "director": "Andre Kim",
+    "cast": ["Zoe Ling", "Ryan Porter", "Kai Takashi"],
+    "synopsis": "In a dystopian future, a hacker uncovers a conspiracy that could control humanity's collective consciousness.",
+    "rating": 7.8,
+    "language": "English",
+    "box_office_millions": 220
+  },
+  {
+    "id": 3,
+    "title": "Echoes of Silence",
+    "genre": "Drama",
+    "release_year": 2021,
+    "duration_minutes": 115,
+    "director": "Maria Sánchez",
+    "cast": ["Emma Castillo", "Diego Reyes", "Lucía Torres"],
+    "synopsis": "A deaf pianist's journey to reclaim her passion for music after a tragic accident.",
+    "rating": 9.0,
+    "language": "Spanish",
+    "box_office_millions": 50
+  },
+  {
+    "id": 4,
+    "title": "Crimson Horizon",
+    "genre": "Action",
+    "release_year": 2024,
+    "duration_minutes": 132,
+    "director": "Victor Hayes",
+    "cast": ["Chris Hunter", "Lena Frost", "Michael Adler"],
+    "synopsis": "An elite task force races against time to stop a rogue general with access to nuclear weapons.",
+    "rating": 7.5,
+    "language": "English",
+    "box_office_millions": 310
+  },
+  {
+    "id": 5,
+    "title": "Whispering Pines",
+    "genre": "Horror",
+    "release_year": 2023,
+    "duration_minutes": 97,
+    "director": "Elena Novak",
+    "cast": ["Anna Ivanov", "Marcus Trent", "Sophia Marks"],
+    "synopsis": "A group of friends encounters sinister forces while staying at an isolated cabin in the woods.",
+    "rating": 6.9,
+    "language": "English",
+    "box_office_millions": 45
+  },
+  {
+    "id": 6,
+    "title": "The Canvas of Life",
+    "genre": "Romance",
+    "release_year": 2022,
+    "duration_minutes": 110,
+    "director": "Amara Patel",
+    "cast": ["Isabella Cruz", "Ethan Hayes", "Claire Lee"],
+    "synopsis": "A struggling artist finds inspiration and love in a small coastal town.",
+    "rating": 8.4,
+    "language": "French",
+    "box_office_millions": 75
+  },
+  {
+    "id": 7,
+    "title": "Beyond the Stars",
+    "genre": "Adventure",
+    "release_year": 2021,
+    "duration_minutes": 125,
+    "director": "Dylan Harper",
+    "cast": ["Aiden Wells", "Nova Sinclair", "Jordan Blake"],
+    "synopsis": "An astronaut ventures into uncharted space to discover the truth behind a mysterious signal.",
+    "rating": 8.0,
+    "language": "English",
+    "box_office_millions": 200
+  }
+]
